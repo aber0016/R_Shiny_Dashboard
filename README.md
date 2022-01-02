@@ -1,4 +1,4 @@
-# R_Shiny_Visualisation
+# R_Shiny_Dashboard
 
 This project is an interactive R Shiny visualisation which seek to answer two main research questions – the socio-economic impact of the Great Financial Crisis and the fiscal policies adopted. 
 
