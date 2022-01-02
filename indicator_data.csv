@@ -1,0 +1,1457 @@
+"Country.Name","Indicator.Name","group","year","value"
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2000,12.6676
+"Germany","Consumer price index (2010 = 100)","economy",2000,85.6988
+"Germany","Health expenditure (% of GDP)","health & well-being",2000,9.8882
+"Germany","Death rate (x/1000)","health & well-being",2000,10.2
+"Germany","Exports as a capacity to import","economy",2000,676095846034.984
+"Germany","Final consumption expenditure (% of GDP)","economy",2000,75.3438
+"Germany","FDI, net inflows (% of GDP)","economy",2000,12.7632
+"Germany","GDP growth (annual %)","economy",2000,2.9125
+"Germany","Government final consumption (%)","governance",2000,19.0445
+"Germany","Gini index","inequality",2000,28.8
+"Germany","Gross domestic savings (% of GDP)","economy",2000,24.6562
+"Germany","Income share of top 20%","inequality",2000,37.7
+"Germany","Income share of bottom 20%","inequality",2000,8.8
+"Germany","Inflation (annual %)","economy",2000,1.4403
+"Germany","Labor force participation rate (%)","economy",2000,71.56
+"Germany","Life expectancy at brith (years)","health & well-being",2000,77.9268
+"Germany","Market cap of domestic companies (%)","economy",2000,65.3705
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2000,5.4
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2000,14.5
+"Germany","Tax revenue (%)","governance",2000,11.705
+"Germany","Unemployment total (%)","economy",2000,7.92
+"Germany","Unemployment youth total (%)","economy",2000,8.54
+"Germany","Vulnerable employment (%))","economy",2000,5.84
+"India","Adolescent fertility rate (x/1000)","health & well-being",2000,66.837
+"India","Consumer price index (2010 = 100)","economy",2000,54.3383
+"India","Health expenditure (% of GDP)","health & well-being",2000,4.0349
+"India","Death rate (x/1000)","health & well-being",2000,8.692
+"India","Exports as a capacity to import","economy",2000,5346504064089.09
+"India","Final consumption expenditure (% of GDP)","economy",2000,75.6868
+"India","FDI, net inflows (% of GDP)","economy",2000,0.7652
+"India","GDP growth (annual %)","economy",2000,3.841
+"India","Government final consumption (%)","governance",2000,11.9478
+"India","Gross domestic savings (% of GDP)","economy",2000,24.3132
+"India","Inflation (annual %)","economy",2000,4.0094
+"India","Labor force participation rate (%)","economy",2000,59.66
+"India","Life expectancy at brith (years)","health & well-being",2000,62.505
+"India","Market cap of domestic companies (%)","economy",2000,48.1748
+"India","Mortality rate under-5 (x/1000)","health & well-being",2000,91.8
+"India","Real interest rate (%)","economy",2000,8.3426
+"India","Suicide mortality rate (x/100,000)","health & well-being",2000,17
+"India","Tax revenue (%)","governance",2000,8.8101
+"India","Total reserves (% of external debt)","governance",2000,40.5997
+"India","Unemployment total (%)","economy",2000,5.75
+"India","Unemployment youth total (%)","economy",2000,17.98
+"India","Vulnerable employment (%))","economy",2000,83.72
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2000,70.2842
+"South Africa","Consumer price index (2010 = 100)","economy",2000,59.8988
+"South Africa","Health expenditure (% of GDP)","health & well-being",2000,7.4374
+"South Africa","Death rate (x/1000)","health & well-being",2000,12.107
+"South Africa","Exports as a capacity to import","economy",2000,474506713958.661
+"South Africa","Final consumption expenditure (% of GDP)","economy",2000,81.497
+"South Africa","FDI, net inflows (% of GDP)","economy",2000,0.7105
+"South Africa","GDP growth (annual %)","economy",2000,4.2
+"South Africa","Government final consumption (%)","governance",2000,18.3869
+"South Africa","Gross domestic savings (% of GDP)","economy",2000,18.503
+"South Africa","Inflation (annual %)","economy",2000,5.339
+"South Africa","Labor force participation rate (%)","economy",2000,58.72
+"South Africa","Life expectancy at brith (years)","health & well-being",2000,56.048
+"South Africa","Market cap of domestic companies (%)","economy",2000,149.8225
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2000,71.1
+"South Africa","Real interest rate (%)","economy",2000,5.2425
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2000,22.4
+"South Africa","Tax revenue (%)","governance",2000,23.3437
+"South Africa","Total reserves (% of external debt)","governance",2000,29.0276
+"South Africa","Unemployment total (%)","economy",2000,29.88
+"South Africa","Unemployment youth total (%)","economy",2000,52.78
+"South Africa","Vulnerable employment (%))","economy",2000,10.72
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2000,46.1652
+"United States","Consumer price index (2010 = 100)","economy",2000,78.9707
+"United States","Health expenditure (% of GDP)","health & well-being",2000,12.5421
+"United States","Death rate (x/1000)","health & well-being",2000,8.5
+"United States","Exports as a capacity to import","economy",2000,1297733672390.89
+"United States","Final consumption expenditure (% of GDP)","economy",2000,79.983
+"United States","FDI, net inflows (% of GDP)","economy",2000,3.4053
+"United States","GDP growth (annual %)","economy",2000,4.1275
+"United States","Government final consumption (%)","governance",2000,14.026
+"United States","Gini index","inequality",2000,40.1
+"United States","Gross domestic savings (% of GDP)","economy",2000,20.017
+"United States","Income share of top 20%","inequality",2000,45.9
+"United States","Income share of bottom 20%","inequality",2000,5.5
+"United States","Inflation (annual %)","economy",2000,3.3769
+"United States","Labor force participation rate (%)","economy",2000,76.43
+"United States","Life expectancy at brith (years)","health & well-being",2000,76.6366
+"United States","Market cap of domestic companies (%)","economy",2000,147.359
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2000,8.4
+"United States","Real interest rate (%)","economy",2000,6.8448
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2000,11
+"United States","Tax revenue (%)","governance",2000,12.969
+"United States","Unemployment total (%)","economy",2000,3.99
+"United States","Unemployment youth total (%)","economy",2000,9.21
+"United States","Vulnerable employment (%))","economy",2000,4.55
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2001,12.5188
+"Germany","Consumer price index (2010 = 100)","economy",2001,87.399
+"Germany","Health expenditure (% of GDP)","health & well-being",2001,9.9205
+"Germany","Death rate (x/1000)","health & well-being",2001,10.1
+"Germany","Exports as a capacity to import","economy",2001,714596611419.343
+"Germany","Final consumption expenditure (% of GDP)","economy",2001,75.413
+"Germany","FDI, net inflows (% of GDP)","economy",2001,2.9293
+"Germany","GDP growth (annual %)","economy",2001,1.6815
+"Germany","Government final consumption (%)","governance",2001,18.9489
+"Germany","Gini index","inequality",2001,30.3
+"Germany","Gross domestic savings (% of GDP)","economy",2001,24.587
+"Germany","Income share of top 20%","inequality",2001,39.1
+"Germany","Income share of bottom 20%","inequality",2001,8.6
+"Germany","Inflation (annual %)","economy",2001,1.9839
+"Germany","Labor force participation rate (%)","economy",2001,71.77
+"Germany","Life expectancy at brith (years)","health & well-being",2001,78.3293
+"Germany","Market cap of domestic companies (%)","economy",2001,55.1281
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2001,5.2
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2001,14.5
+"Germany","Tax revenue (%)","governance",2001,10.9617
+"Germany","Unemployment total (%)","economy",2001,7.77
+"Germany","Unemployment youth total (%)","economy",2001,7.79
+"Germany","Vulnerable employment (%))","economy",2001,6.12
+"India","Adolescent fertility rate (x/1000)","health & well-being",2001,63.498
+"India","Consumer price index (2010 = 100)","economy",2001,56.3919
+"India","Health expenditure (% of GDP)","health & well-being",2001,4.2628
+"India","Death rate (x/1000)","health & well-being",2001,8.555
+"India","Exports as a capacity to import","economy",2001,5503651391945.98
+"India","Final consumption expenditure (% of GDP)","economy",2001,75.9083
+"India","FDI, net inflows (% of GDP)","economy",2001,1.0564
+"India","GDP growth (annual %)","economy",2001,4.824
+"India","Government final consumption (%)","governance",2001,11.7614
+"India","Gross domestic savings (% of GDP)","economy",2001,24.0917
+"India","Inflation (annual %)","economy",2001,3.7793
+"India","Labor force participation rate (%)","economy",2001,59.79
+"India","Life expectancy at brith (years)","health & well-being",2001,62.907
+"India","Market cap of domestic companies (%)","economy",2001,30.6467
+"India","Mortality rate under-5 (x/1000)","health & well-being",2001,88.2
+"India","Real interest rate (%)","economy",2001,8.5914
+"India","Suicide mortality rate (x/100,000)","health & well-being",2001,16.6
+"India","Tax revenue (%)","governance",2001,8.0795
+"India","Total reserves (% of external debt)","governance",2001,49.2973
+"India","Unemployment total (%)","economy",2001,5.73
+"India","Unemployment youth total (%)","economy",2001,17.98
+"India","Vulnerable employment (%))","economy",2001,83.64
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2001,68.0176
+"South Africa","Consumer price index (2010 = 100)","economy",2001,63.3141
+"South Africa","Health expenditure (% of GDP)","health & well-being",2001,7.4511
+"South Africa","Death rate (x/1000)","health & well-being",2001,12.709
+"South Africa","Exports as a capacity to import","economy",2001,491277451765.219
+"South Africa","Final consumption expenditure (% of GDP)","economy",2001,81.4215
+"South Africa","FDI, net inflows (% of GDP)","economy",2001,5.9831
+"South Africa","GDP growth (annual %)","economy",2001,2.7
+"South Africa","Government final consumption (%)","governance",2001,18.5341
+"South Africa","Gross domestic savings (% of GDP)","economy",2001,18.5785
+"South Africa","Inflation (annual %)","economy",2001,5.7019
+"South Africa","Labor force participation rate (%)","economy",2001,58.62
+"South Africa","Life expectancy at brith (years)","health & well-being",2001,55.089
+"South Africa","Market cap of domestic companies (%)","economy",2001,121.3611
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2001,73
+"South Africa","Real interest rate (%)","economy",2001,5.6939
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2001,23
+"South Africa","Tax revenue (%)","governance",2001,24.1856
+"South Africa","Total reserves (% of external debt)","governance",2001,29.8747
+"South Africa","Unemployment total (%)","economy",2001,30.69
+"South Africa","Unemployment youth total (%)","economy",2001,55.41
+"South Africa","Vulnerable employment (%))","economy",2001,10.85
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2001,44.4236
+"United States","Consumer price index (2010 = 100)","economy",2001,81.2026
+"United States","Health expenditure (% of GDP)","health & well-being",2001,13.2192
+"United States","Death rate (x/1000)","health & well-being",2001,8.5
+"United States","Exports as a capacity to import","economy",2001,1245616841152.19
+"United States","Final consumption expenditure (% of GDP)","economy",2001,81.3001
+"United States","FDI, net inflows (% of GDP)","economy",2001,1.6301
+"United States","GDP growth (annual %)","economy",2001,0.9983
+"United States","Government final consumption (%)","governance",2001,14.5286
+"United States","Gini index","inequality",2001,40.6
+"United States","Gross domestic savings (% of GDP)","economy",2001,18.6999
+"United States","Income share of top 20%","inequality",2001,46.2
+"United States","Income share of bottom 20%","inequality",2001,5.4
+"United States","Inflation (annual %)","economy",2001,2.8262
+"United States","Labor force participation rate (%)","economy",2001,75.93
+"United States","Life expectancy at brith (years)","health & well-being",2001,76.8366
+"United States","Market cap of domestic companies (%)","economy",2001,132.148
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2001,8.3
+"United States","Real interest rate (%)","economy",2001,4.6268
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2001,11.4
+"United States","Tax revenue (%)","governance",2001,11.8578
+"United States","Unemployment total (%)","economy",2001,4.73
+"United States","Unemployment youth total (%)","economy",2001,10.44
+"United States","Vulnerable employment (%))","economy",2001,4.52
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2002,12.37
+"Germany","Consumer price index (2010 = 100)","economy",2002,88.6407
+"Germany","Health expenditure (% of GDP)","health & well-being",2002,10.1836
+"Germany","Death rate (x/1000)","health & well-being",2002,10.2
+"Germany","Exports as a capacity to import","economy",2002,759393812016.989
+"Germany","Final consumption expenditure (% of GDP)","economy",2002,74.9733
+"Germany","FDI, net inflows (% of GDP)","economy",2002,2.4784
+"Germany","GDP growth (annual %)","economy",2002,-0.198
+"Germany","Government final consumption (%)","governance",2002,19.2316
+"Germany","Gini index","inequality",2002,29.9
+"Germany","Gross domestic savings (% of GDP)","economy",2002,25.0267
+"Germany","Income share of top 20%","inequality",2002,38.6
+"Germany","Income share of bottom 20%","inequality",2002,8.6
+"Germany","Inflation (annual %)","economy",2002,1.4208
+"Germany","Labor force participation rate (%)","economy",2002,72.06
+"Germany","Life expectancy at brith (years)","health & well-being",2002,78.2293
+"Germany","Market cap of domestic companies (%)","economy",2002,33.1628
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2002,5.1
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2002,14.6
+"Germany","Tax revenue (%)","governance",2002,10.8353
+"Germany","Unemployment total (%)","economy",2002,8.48
+"Germany","Unemployment youth total (%)","economy",2002,9.29
+"Germany","Vulnerable employment (%))","economy",2002,6.13
+"India","Adolescent fertility rate (x/1000)","health & well-being",2002,60.159
+"India","Consumer price index (2010 = 100)","economy",2002,58.8152
+"India","Health expenditure (% of GDP)","health & well-being",2002,4.2402
+"India","Death rate (x/1000)","health & well-being",2002,8.427
+"India","Exports as a capacity to import","economy",2002,6170250039001.09
+"India","Final consumption expenditure (% of GDP)","economy",2002,74.3437
+"India","FDI, net inflows (% of GDP)","economy",2002,1.0116
+"India","GDP growth (annual %)","economy",2002,3.804
+"India","Government final consumption (%)","governance",2002,11.3141
+"India","Gross domestic savings (% of GDP)","economy",2002,25.6563
+"India","Inflation (annual %)","economy",2002,4.2972
+"India","Labor force participation rate (%)","economy",2002,59.93
+"India","Life expectancy at brith (years)","health & well-being",2002,63.304
+"India","Market cap of domestic companies (%)","economy",2002,33.4381
+"India","Mortality rate under-5 (x/1000)","health & well-being",2002,84.6
+"India","Real interest rate (%)","economy",2002,7.9072
+"India","Suicide mortality rate (x/100,000)","health & well-being",2002,16.1
+"India","Tax revenue (%)","governance",2002,8.6763
+"India","Total reserves (% of external debt)","governance",2002,67.7197
+"India","Unemployment total (%)","economy",2002,5.77
+"India","Unemployment youth total (%)","economy",2002,18.16
+"India","Vulnerable employment (%))","economy",2002,83.62
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2002,65.751
+"South Africa","Consumer price index (2010 = 100)","economy",2002,69.3256
+"South Africa","Health expenditure (% of GDP)","health & well-being",2002,6.8829
+"South Africa","Death rate (x/1000)","health & well-being",2002,13.225
+"South Africa","Exports as a capacity to import","economy",2002,508745738986.076
+"South Africa","Final consumption expenditure (% of GDP)","economy",2002,79.5843
+"South Africa","FDI, net inflows (% of GDP)","economy",2002,1.2814
+"South Africa","GDP growth (annual %)","economy",2002,3.7004
+"South Africa","Government final consumption (%)","governance",2002,18.8052
+"South Africa","Gross domestic savings (% of GDP)","economy",2002,20.4157
+"South Africa","Inflation (annual %)","economy",2002,9.4947
+"South Africa","Labor force participation rate (%)","economy",2002,58.53
+"South Africa","Life expectancy at brith (years)","health & well-being",2002,54.31
+"South Africa","Market cap of domestic companies (%)","economy",2002,157.5984
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2002,74.4
+"South Africa","Real interest rate (%)","economy",2002,3.1591
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2002,24.3
+"South Africa","Tax revenue (%)","governance",2002,23.2784
+"South Africa","Total reserves (% of external debt)","governance",2002,22.2961
+"South Africa","Unemployment total (%)","economy",2002,33.29
+"South Africa","Unemployment youth total (%)","economy",2002,59.64
+"South Africa","Vulnerable employment (%))","economy",2002,10.98
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2002,42.682
+"United States","Consumer price index (2010 = 100)","economy",2002,82.4905
+"United States","Health expenditure (% of GDP)","health & well-being",2002,14.0075
+"United States","Death rate (x/1000)","health & well-being",2002,8.5
+"United States","Exports as a capacity to import","economy",2002,1230391301511.16
+"United States","Final consumption expenditure (% of GDP)","economy",2002,82.1816
+"United States","FDI, net inflows (% of GDP)","economy",2002,1.0155
+"United States","GDP growth (annual %)","economy",2002,1.7417
+"United States","Government final consumption (%)","governance",2002,15.0419
+"United States","Gini index","inequality",2002,40.4
+"United States","Gross domestic savings (% of GDP)","economy",2002,17.8184
+"United States","Income share of top 20%","inequality",2002,45.9
+"United States","Income share of bottom 20%","inequality",2002,5.3
+"United States","Inflation (annual %)","economy",2002,1.586
+"United States","Labor force participation rate (%)","economy",2002,75.42
+"United States","Life expectancy at brith (years)","health & well-being",2002,76.9366
+"United States","Market cap of domestic companies (%)","economy",2002,101.0791
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2002,8.2
+"United States","Real interest rate (%)","economy",2002,3.0451
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2002,11.8
+"United States","Tax revenue (%)","governance",2002,9.8614
+"United States","Unemployment total (%)","economy",2002,5.78
+"United States","Unemployment youth total (%)","economy",2002,11.9
+"United States","Vulnerable employment (%))","economy",2002,4.45
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2003,11.8502
+"Germany","Consumer price index (2010 = 100)","economy",2003,89.5575
+"Germany","Health expenditure (% of GDP)","health & well-being",2003,10.402
+"Germany","Death rate (x/1000)","health & well-being",2003,10.3
+"Germany","Exports as a capacity to import","economy",2003,788284078100.584
+"Germany","Final consumption expenditure (% of GDP)","economy",2003,75.7891
+"Germany","FDI, net inflows (% of GDP)","economy",2003,2.6201
+"Germany","GDP growth (annual %)","economy",2003,-0.7001
+"Germany","Government final consumption (%)","governance",2003,19.3256
+"Germany","Gini index","inequality",2003,30
+"Germany","Gross domestic savings (% of GDP)","economy",2003,24.2109
+"Germany","Income share of top 20%","inequality",2003,38.8
+"Germany","Income share of bottom 20%","inequality",2003,8.6
+"Germany","Inflation (annual %)","economy",2003,1.0342
+"Germany","Labor force participation rate (%)","economy",2003,72.64
+"Germany","Life expectancy at brith (years)","health & well-being",2003,78.3805
+"Germany","Market cap of domestic companies (%)","economy",2003,43.228
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2003,5
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2003,14.4
+"Germany","Tax revenue (%)","governance",2003,10.9985
+"Germany","Unemployment total (%)","economy",2003,9.78
+"Germany","Unemployment youth total (%)","economy",2003,11.03
+"Germany","Vulnerable employment (%))","economy",2003,6.37
+"India","Adolescent fertility rate (x/1000)","health & well-being",2003,57.039
+"India","Consumer price index (2010 = 100)","economy",2003,61.0536
+"India","Health expenditure (% of GDP)","health & well-being",2003,4.0085
+"India","Death rate (x/1000)","health & well-being",2003,8.306
+"India","Exports as a capacity to import","economy",2003,7175254496006.51
+"India","Final consumption expenditure (% of GDP)","economy",2003,72.38
+"India","FDI, net inflows (% of GDP)","economy",2003,0.6059
+"India","GDP growth (annual %)","economy",2003,7.8604
+"India","Government final consumption (%)","governance",2003,10.8762
+"India","Gross domestic savings (% of GDP)","economy",2003,27.62
+"India","Inflation (annual %)","economy",2003,3.8059
+"India","Labor force participation rate (%)","economy",2003,60.09
+"India","Life expectancy at brith (years)","health & well-being",2003,63.699
+"India","Market cap of domestic companies (%)","economy",2003,50.8467
+"India","Mortality rate under-5 (x/1000)","health & well-being",2003,81.2
+"India","Real interest rate (%)","economy",2003,7.3079
+"India","Suicide mortality rate (x/100,000)","health & well-being",2003,15.3
+"India","Tax revenue (%)","governance",2003,9.1081
+"India","Total reserves (% of external debt)","governance",2003,87.2587
+"India","Unemployment total (%)","economy",2003,5.77
+"India","Unemployment youth total (%)","economy",2003,18.3
+"India","Vulnerable employment (%))","economy",2003,83.43
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2003,66.0524
+"South Africa","Consumer price index (2010 = 100)","economy",2003,73.2629
+"South Africa","Health expenditure (% of GDP)","health & well-being",2003,6.914
+"South Africa","Death rate (x/1000)","health & well-being",2003,13.63
+"South Africa","Exports as a capacity to import","economy",2003,530950123854.354
+"South Africa","Final consumption expenditure (% of GDP)","economy",2003,79.6113
+"South Africa","FDI, net inflows (% of GDP)","economy",2003,0.4469
+"South Africa","GDP growth (annual %)","economy",2003,2.9491
+"South Africa","Government final consumption (%)","governance",2003,19.0579
+"South Africa","Gross domestic savings (% of GDP)","economy",2003,20.3887
+"South Africa","Inflation (annual %)","economy",2003,5.6794
+"South Africa","Labor force participation rate (%)","economy",2003,58.48
+"South Africa","Life expectancy at brith (years)","health & well-being",2003,53.749
+"South Africa","Market cap of domestic companies (%)","economy",2003,148.7806
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2003,76
+"South Africa","Real interest rate (%)","economy",2003,8.6629
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2003,25.1
+"South Africa","Tax revenue (%)","governance",2003,23.0375
+"South Africa","Total reserves (% of external debt)","governance",2003,21.4982
+"South Africa","Unemployment total (%)","economy",2003,32.31
+"South Africa","Unemployment youth total (%)","economy",2003,60.83
+"South Africa","Vulnerable employment (%))","economy",2003,10.84
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2003,42.0618
+"United States","Consumer price index (2010 = 100)","economy",2003,84.3631
+"United States","Health expenditure (% of GDP)","health & well-being",2003,14.5216
+"United States","Death rate (x/1000)","health & well-being",2003,8.4
+"United States","Exports as a capacity to import","economy",2003,1239088208273.45
+"United States","Final consumption expenditure (% of GDP)","economy",2003,82.6487
+"United States","FDI, net inflows (% of GDP)","economy",2003,1.022
+"United States","GDP growth (annual %)","economy",2003,2.8612
+"United States","Government final consumption (%)","governance",2003,15.2465
+"United States","Gini index","inequality",2003,40.8
+"United States","Gross domestic savings (% of GDP)","economy",2003,17.3513
+"United States","Income share of top 20%","inequality",2003,46.2
+"United States","Income share of bottom 20%","inequality",2003,5.2
+"United States","Inflation (annual %)","economy",2003,2.2701
+"United States","Labor force participation rate (%)","economy",2003,74.78
+"United States","Life expectancy at brith (years)","health & well-being",2003,77.0366
+"United States","Market cap of domestic companies (%)","economy",2003,124.5066
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2003,8.1
+"United States","Real interest rate (%)","economy",2003,2.2241
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2003,11.7
+"United States","Tax revenue (%)","governance",2003,9.3892
+"United States","Unemployment total (%)","economy",2003,5.99
+"United States","Unemployment youth total (%)","economy",2003,12.32
+"United States","Vulnerable employment (%))","economy",2003,4.59
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2004,11.3304
+"Germany","Consumer price index (2010 = 100)","economy",2004,91.0493
+"Germany","Health expenditure (% of GDP)","health & well-being",2004,10.146
+"Germany","Death rate (x/1000)","health & well-being",2004,9.9
+"Germany","Exports as a capacity to import","economy",2004,880446244131.619
+"Germany","Final consumption expenditure (% of GDP)","economy",2004,74.9604
+"Germany","FDI, net inflows (% of GDP)","economy",2004,-0.7265
+"Germany","GDP growth (annual %)","economy",2004,1.1751
+"Germany","Government final consumption (%)","governance",2004,18.8174
+"Germany","Gini index","inequality",2004,30.4
+"Germany","Gross domestic savings (% of GDP)","economy",2004,25.0396
+"Germany","Income share of top 20%","inequality",2004,39.1
+"Germany","Income share of bottom 20%","inequality",2004,8.5
+"Germany","Inflation (annual %)","economy",2004,1.6657
+"Germany","Labor force participation rate (%)","economy",2004,72.67
+"Germany","Life expectancy at brith (years)","health & well-being",2004,78.6805
+"Germany","Market cap of domestic companies (%)","economy",2004,42.5218
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2004,4.9
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2004,14
+"Germany","Tax revenue (%)","governance",2004,10.4263
+"Germany","Unemployment total (%)","economy",2004,10.73
+"Germany","Unemployment youth total (%)","economy",2004,12.99
+"Germany","Vulnerable employment (%))","economy",2004,6.9
+"India","Adolescent fertility rate (x/1000)","health & well-being",2004,53.919
+"India","Consumer price index (2010 = 100)","economy",2004,63.3536
+"India","Health expenditure (% of GDP)","health & well-being",2004,3.9574
+"India","Death rate (x/1000)","health & well-being",2004,8.189
+"India","Exports as a capacity to import","economy",2004,8342348245528.9
+"India","Final consumption expenditure (% of GDP)","economy",2004,68.7563
+"India","FDI, net inflows (% of GDP)","economy",2004,0.7656
+"India","GDP growth (annual %)","economy",2004,7.9229
+"India","Government final consumption (%)","governance",2004,10.4047
+"India","Gross domestic savings (% of GDP)","economy",2004,31.2437
+"India","Inflation (annual %)","economy",2004,3.7673
+"India","Labor force participation rate (%)","economy",2004,60.25
+"India","Life expectancy at brith (years)","health & well-being",2004,64.095
+"India","Market cap of domestic companies (%)","economy",2004,58.5976
+"India","Mortality rate under-5 (x/1000)","health & well-being",2004,77.8
+"India","Real interest rate (%)","economy",2004,4.9101
+"India","Suicide mortality rate (x/100,000)","health & well-being",2004,15.2
+"India","Tax revenue (%)","governance",2004,9.5708
+"India","Total reserves (% of external debt)","governance",2004,106.4594
+"India","Unemployment total (%)","economy",2004,5.72
+"India","Unemployment youth total (%)","economy",2004,18.32
+"India","Vulnerable employment (%))","economy",2004,83.2
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2004,66.3538
+"South Africa","Consumer price index (2010 = 100)","economy",2004,72.7559
+"South Africa","Health expenditure (% of GDP)","health & well-being",2004,6.8114
+"South Africa","Death rate (x/1000)","health & well-being",2004,13.897
+"South Africa","Exports as a capacity to import","economy",2004,556125922917.047
+"South Africa","Final consumption expenditure (% of GDP)","economy",2004,81.0241
+"South Africa","FDI, net inflows (% of GDP)","economy",2004,0.3068
+"South Africa","GDP growth (annual %)","economy",2004,4.5546
+"South Africa","Government final consumption (%)","governance",2004,19.1576
+"South Africa","Gross domestic savings (% of GDP)","economy",2004,18.9759
+"South Africa","Inflation (annual %)","economy",2004,-0.692
+"South Africa","Labor force participation rate (%)","economy",2004,58.47
+"South Africa","Life expectancy at brith (years)","health & well-being",2004,53.444
+"South Africa","Market cap of domestic companies (%)","economy",2004,193.5866
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2004,78.1
+"South Africa","Real interest rate (%)","economy",2004,4.4727
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2004,24.6
+"South Africa","Tax revenue (%)","governance",2004,24.2821
+"South Africa","Total reserves (% of external debt)","governance",2004,34.9337
+"South Africa","Unemployment total (%)","economy",2004,29.45
+"South Africa","Unemployment youth total (%)","economy",2004,56.13
+"South Africa","Vulnerable employment (%))","economy",2004,10.6
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2004,41.4416
+"United States","Consumer price index (2010 = 100)","economy",2004,86.6217
+"United States","Health expenditure (% of GDP)","health & well-being",2004,14.6099
+"United States","Death rate (x/1000)","health & well-being",2004,8.2
+"United States","Exports as a capacity to import","economy",2004,1344019294938.33
+"United States","Final consumption expenditure (% of GDP)","economy",2004,82.4101
+"United States","FDI, net inflows (% of GDP)","economy",2004,1.7492
+"United States","GDP growth (annual %)","economy",2004,3.7989
+"United States","Government final consumption (%)","governance",2004,15.1689
+"United States","Gini index","inequality",2004,40.3
+"United States","Gross domestic savings (% of GDP)","economy",2004,17.5899
+"United States","Income share of top 20%","inequality",2004,45.8
+"United States","Income share of bottom 20%","inequality",2004,5.3
+"United States","Inflation (annual %)","economy",2004,2.6772
+"United States","Labor force participation rate (%)","economy",2004,74.35
+"United States","Life expectancy at brith (years)","health & well-being",2004,77.4878
+"United States","Market cap of domestic companies (%)","economy",2004,133.6506
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2004,8.1
+"United States","Real interest rate (%)","economy",2004,1.6046
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2004,11.9
+"United States","Tax revenue (%)","governance",2004,9.5402
+"United States","Unemployment total (%)","economy",2004,5.53
+"United States","Unemployment youth total (%)","economy",2004,11.74
+"United States","Vulnerable employment (%))","economy",2004,4.61
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2005,10.8106
+"Germany","Consumer price index (2010 = 100)","economy",2005,92.4577
+"Germany","Health expenditure (% of GDP)","health & well-being",2005,10.3115
+"Germany","Death rate (x/1000)","health & well-being",2005,10.1
+"Germany","Exports as a capacity to import","economy",2005,923255079891.571
+"Germany","Final consumption expenditure (% of GDP)","economy",2005,75.3144
+"Germany","FDI, net inflows (% of GDP)","economy",2005,2.1026
+"Germany","GDP growth (annual %)","economy",2005,0.7317
+"Germany","Government final consumption (%)","governance",2005,18.7759
+"Germany","Gini index","inequality",2005,32.1
+"Germany","Gross domestic savings (% of GDP)","economy",2005,24.6856
+"Germany","Income share of top 20%","inequality",2005,40.5
+"Germany","Income share of bottom 20%","inequality",2005,8.1
+"Germany","Inflation (annual %)","economy",2005,1.5469
+"Germany","Labor force participation rate (%)","economy",2005,74.04
+"Germany","Life expectancy at brith (years)","health & well-being",2005,78.9317
+"Germany","Market cap of domestic companies (%)","economy",2005,42.2424
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2005,4.7
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2005,13.3
+"Germany","Tax revenue (%)","governance",2005,10.6568
+"Germany","Unemployment total (%)","economy",2005,11.17
+"Germany","Unemployment youth total (%)","economy",2005,15.53
+"Germany","Vulnerable employment (%))","economy",2005,7.45
+"India","Adolescent fertility rate (x/1000)","health & well-being",2005,50.799
+"India","Consumer price index (2010 = 100)","economy",2005,66.0439
+"India","Health expenditure (% of GDP)","health & well-being",2005,3.7912
+"India","Death rate (x/1000)","health & well-being",2005,8.074
+"India","Exports as a capacity to import","economy",2005,10624955951024.4
+"India","Final consumption expenditure (% of GDP)","economy",2005,67.7449
+"India","FDI, net inflows (% of GDP)","economy",2005,0.8861
+"India","GDP growth (annual %)","economy",2005,7.9234
+"India","Government final consumption (%)","governance",2005,10.3661
+"India","Gross domestic savings (% of GDP)","economy",2005,32.2551
+"India","Inflation (annual %)","economy",2005,4.2463
+"India","Labor force participation rate (%)","economy",2005,60.42
+"India","Life expectancy at brith (years)","health & well-being",2005,64.5
+"India","Market cap of domestic companies (%)","economy",2005,76.1523
+"India","Mortality rate under-5 (x/1000)","health & well-being",2005,74.5
+"India","Real interest rate (%)","economy",2005,4.8551
+"India","Suicide mortality rate (x/100,000)","health & well-being",2005,15.5
+"India","Tax revenue (%)","governance",2005,10.0809
+"India","Total reserves (% of external debt)","governance",2005,113.7211
+"India","Unemployment total (%)","economy",2005,5.65
+"India","Unemployment youth total (%)","economy",2005,18.3
+"India","Vulnerable employment (%))","economy",2005,82.97
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2005,66.6552
+"South Africa","Consumer price index (2010 = 100)","economy",2005,74.2568
+"South Africa","Health expenditure (% of GDP)","health & well-being",2005,6.7058
+"South Africa","Death rate (x/1000)","health & well-being",2005,13.994
+"South Africa","Exports as a capacity to import","economy",2005,614169866376.071
+"South Africa","Final consumption expenditure (% of GDP)","economy",2005,81.45
+"South Africa","FDI, net inflows (% of GDP)","economy",2005,2.5302
+"South Africa","GDP growth (annual %)","economy",2005,5.2771
+"South Africa","Government final consumption (%)","governance",2005,19.4782
+"South Africa","Gross domestic savings (% of GDP)","economy",2005,18.55
+"South Africa","Inflation (annual %)","economy",2005,2.0629
+"South Africa","Labor force participation rate (%)","economy",2005,58.51
+"South Africa","Life expectancy at brith (years)","health & well-being",2005,53.447
+"South Africa","Market cap of domestic companies (%)","economy",2005,213.0987
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2005,79.1
+"South Africa","Real interest rate (%)","economy",2005,4.9084
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2005,24.4
+"South Africa","Tax revenue (%)","governance",2005,25.7433
+"South Africa","Total reserves (% of external debt)","governance",2005,48.7025
+"South Africa","Unemployment total (%)","economy",2005,29.12
+"South Africa","Unemployment youth total (%)","economy",2005,55.77
+"South Africa","Vulnerable employment (%))","economy",2005,11.39
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2005,40.8214
+"United States","Consumer price index (2010 = 100)","economy",2005,89.5605
+"United States","Health expenditure (% of GDP)","health & well-being",2005,14.6057
+"United States","Death rate (x/1000)","health & well-being",2005,8.3
+"United States","Exports as a capacity to import","economy",2005,1407005962009.38
+"United States","Final consumption expenditure (% of GDP)","economy",2005,82.1517
+"United States","FDI, net inflows (% of GDP)","economy",2005,1.0919
+"United States","GDP growth (annual %)","economy",2005,3.5132
+"United States","Government final consumption (%)","governance",2005,15.0553
+"United States","Gini index","inequality",2005,41
+"United States","Gross domestic savings (% of GDP)","economy",2005,17.8483
+"United States","Income share of top 20%","inequality",2005,46.5
+"United States","Income share of bottom 20%","inequality",2005,5.3
+"United States","Inflation (annual %)","economy",2005,3.3927
+"United States","Labor force participation rate (%)","economy",2005,74.26
+"United States","Life expectancy at brith (years)","health & well-being",2005,77.4878
+"United States","Market cap of domestic companies (%)","economy",2005,130.4083
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2005,8
+"United States","Real interest rate (%)","economy",2005,2.9814
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2005,11.9
+"United States","Tax revenue (%)","governance",2005,10.6838
+"United States","Unemployment total (%)","economy",2005,5.08
+"United States","Unemployment youth total (%)","economy",2005,11.17
+"United States","Vulnerable employment (%))","economy",2005,4.56
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2006,10.2908
+"Germany","Consumer price index (2010 = 100)","economy",2006,93.9162
+"Germany","Health expenditure (% of GDP)","health & well-being",2006,10.1796
+"Germany","Death rate (x/1000)","health & well-being",2006,10
+"Germany","Exports as a capacity to import","economy",2006,1019233276941.85
+"Germany","Final consumption expenditure (% of GDP)","economy",2006,74.0132
+"Germany","FDI, net inflows (% of GDP)","economy",2006,2.9224
+"Germany","GDP growth (annual %)","economy",2006,3.8164
+"Germany","Government final consumption (%)","governance",2006,18.3278
+"Germany","Gini index","inequality",2006,31.3
+"Germany","Gross domestic savings (% of GDP)","economy",2006,25.9868
+"Germany","Income share of top 20%","inequality",2006,39.8
+"Germany","Income share of bottom 20%","inequality",2006,8.3
+"Germany","Inflation (annual %)","economy",2006,1.5774
+"Germany","Labor force participation rate (%)","economy",2006,74.95
+"Germany","Life expectancy at brith (years)","health & well-being",2006,79.1317
+"Germany","Market cap of domestic companies (%)","economy",2006,54.7293
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2006,4.6
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2006,12.8
+"Germany","Tax revenue (%)","governance",2006,10.8516
+"Germany","Unemployment total (%)","economy",2006,10.25
+"Germany","Unemployment youth total (%)","economy",2006,13.76
+"Germany","Vulnerable employment (%))","economy",2006,7.26
+"India","Adolescent fertility rate (x/1000)","health & well-being",2006,47.679
+"India","Consumer price index (2010 = 100)","economy",2006,69.8721
+"India","Health expenditure (% of GDP)","health & well-being",2006,3.6348
+"India","Death rate (x/1000)","health & well-being",2006,7.958
+"India","Exports as a capacity to import","economy",2006,12824983691952.9
+"India","Final consumption expenditure (% of GDP)","economy",2006,65.9124
+"India","FDI, net inflows (% of GDP)","economy",2006,2.1302
+"India","GDP growth (annual %)","economy",2006,8.0607
+"India","Government final consumption (%)","governance",2006,9.8025
+"India","Gross domestic savings (% of GDP)","economy",2006,34.0876
+"India","Inflation (annual %)","economy",2006,5.7965
+"India","Labor force participation rate (%)","economy",2006,59.57
+"India","Life expectancy at brith (years)","health & well-being",2006,64.918
+"India","Market cap of domestic companies (%)","economy",2006,95.2152
+"India","Mortality rate under-5 (x/1000)","health & well-being",2006,71.2
+"India","Real interest rate (%)","economy",2006,2.5706
+"India","Suicide mortality rate (x/100,000)","health & well-being",2006,15.6
+"India","Tax revenue (%)","governance",2006,11.1293
+"India","Total reserves (% of external debt)","governance",2006,111.6121
+"India","Unemployment total (%)","economy",2006,5.52
+"India","Unemployment youth total (%)","economy",2006,18.33
+"India","Vulnerable employment (%))","economy",2006,82.78
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2006,66.9566
+"South Africa","Consumer price index (2010 = 100)","economy",2006,76.6656
+"South Africa","Health expenditure (% of GDP)","health & well-being",2006,6.5871
+"South Africa","Death rate (x/1000)","health & well-being",2006,13.897
+"South Africa","Exports as a capacity to import","economy",2006,692440214801.254
+"South Africa","Final consumption expenditure (% of GDP)","economy",2006,80.0061
+"South Africa","FDI, net inflows (% of GDP)","economy",2006,0.2295
+"South Africa","GDP growth (annual %)","economy",2006,5.6038
+"South Africa","Government final consumption (%)","governance",2006,18.1535
+"South Africa","Gross domestic savings (% of GDP)","economy",2006,19.9939
+"South Africa","Inflation (annual %)","economy",2006,3.2439
+"South Africa","Labor force participation rate (%)","economy",2006,58.6
+"South Africa","Life expectancy at brith (years)","health & well-being",2006,53.795
+"South Africa","Market cap of domestic companies (%)","economy",2006,261.8305
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2006,79.4
+"South Africa","Real interest rate (%)","economy",2006,4.6223
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2006,23.6
+"South Africa","Tax revenue (%)","governance",2006,27.2699
+"South Africa","Total reserves (% of external debt)","governance",2006,45.2152
+"South Africa","Unemployment total (%)","economy",2006,28.34
+"South Africa","Unemployment youth total (%)","economy",2006,54.41
+"South Africa","Vulnerable employment (%))","economy",2006,11.31
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2006,40.2012
+"United States","Consumer price index (2010 = 100)","economy",2006,92.4497
+"United States","Health expenditure (% of GDP)","health & well-being",2006,14.7022
+"United States","Death rate (x/1000)","health & well-being",2006,8.1
+"United States","Exports as a capacity to import","economy",2006,1528893562369.83
+"United States","Final consumption expenditure (% of GDP)","economy",2006,82.0413
+"United States","FDI, net inflows (% of GDP)","economy",2006,2.1605
+"United States","GDP growth (annual %)","economy",2006,2.855
+"United States","Government final consumption (%)","governance",2006,15.0083
+"United States","Gini index","inequality",2006,41.4
+"United States","Gross domestic savings (% of GDP)","economy",2006,17.9587
+"United States","Income share of top 20%","inequality",2006,46.9
+"United States","Income share of bottom 20%","inequality",2006,5.2
+"United States","Inflation (annual %)","economy",2006,3.2259
+"United States","Labor force participation rate (%)","economy",2006,74.37
+"United States","Life expectancy at brith (years)","health & well-being",2006,77.6878
+"United States","Market cap of domestic companies (%)","economy",2006,141.6542
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2006,7.9
+"United States","Real interest rate (%)","economy",2006,4.7864
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2006,12.1
+"United States","Tax revenue (%)","governance",2006,11.3113
+"United States","Unemployment total (%)","economy",2006,4.62
+"United States","Unemployment youth total (%)","economy",2006,10.36
+"United States","Vulnerable employment (%))","economy",2006,4.52
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2007,9.771
+"Germany","Consumer price index (2010 = 100)","economy",2007,96.0747
+"Germany","Health expenditure (% of GDP)","health & well-being",2007,10.051
+"Germany","Death rate (x/1000)","health & well-being",2007,10.1
+"Germany","Exports as a capacity to import","economy",2007,1115294592853.06
+"Germany","Final consumption expenditure (% of GDP)","economy",2007,71.849
+"Germany","FDI, net inflows (% of GDP)","economy",2007,1.4862
+"Germany","GDP growth (annual %)","economy",2007,2.9765
+"Germany","Government final consumption (%)","governance",2007,17.8551
+"Germany","Gini index","inequality",2007,31.3
+"Germany","Gross domestic savings (% of GDP)","economy",2007,28.151
+"Germany","Income share of top 20%","inequality",2007,39.9
+"Germany","Income share of bottom 20%","inequality",2007,8.3
+"Germany","Inflation (annual %)","economy",2007,2.2983
+"Germany","Labor force participation rate (%)","economy",2007,75.68
+"Germany","Life expectancy at brith (years)","health & well-being",2007,79.5341
+"Germany","Market cap of domestic companies (%)","economy",2007,61.5334
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2007,4.5
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2007,12.4
+"Germany","Tax revenue (%)","governance",2007,11.334
+"Germany","Unemployment total (%)","economy",2007,8.66
+"Germany","Unemployment youth total (%)","economy",2007,11.9
+"Germany","Vulnerable employment (%))","economy",2007,7.15
+"India","Adolescent fertility rate (x/1000)","health & well-being",2007,44.559
+"India","Consumer price index (2010 = 100)","economy",2007,74.325
+"India","Health expenditure (% of GDP)","health & well-being",2007,3.5175
+"India","Death rate (x/1000)","health & well-being",2007,7.839
+"India","Exports as a capacity to import","economy",2007,13552515362475.1
+"India","Final consumption expenditure (% of GDP)","economy",2007,65.6226
+"India","FDI, net inflows (% of GDP)","economy",2007,2.0734
+"India","GDP growth (annual %)","economy",2007,7.6608
+"India","Government final consumption (%)","governance",2007,9.8621
+"India","Gross domestic savings (% of GDP)","economy",2007,34.3774
+"India","Inflation (annual %)","economy",2007,6.3729
+"India","Labor force participation rate (%)","economy",2007,58.73
+"India","Life expectancy at brith (years)","health & well-being",2007,65.35
+"India","Market cap of domestic companies (%)","economy",2007,161.2396
+"India","Mortality rate under-5 (x/1000)","health & well-being",2007,67.9
+"India","Real interest rate (%)","economy",2007,5.6818
+"India","Suicide mortality rate (x/100,000)","health & well-being",2007,15.3
+"India","Tax revenue (%)","governance",2007,12.1083
+"India","Total reserves (% of external debt)","governance",2007,135.5393
+"India","Unemployment total (%)","economy",2007,5.41
+"India","Unemployment youth total (%)","economy",2007,18.42
+"India","Vulnerable employment (%))","economy",2007,82.56
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2007,67.258
+"South Africa","Consumer price index (2010 = 100)","economy",2007,81.4018
+"South Africa","Health expenditure (% of GDP)","health & well-being",2007,6.4313
+"South Africa","Death rate (x/1000)","health & well-being",2007,13.624
+"South Africa","Exports as a capacity to import","economy",2007,769091618895.481
+"South Africa","Final consumption expenditure (% of GDP)","economy",2007,79.2975
+"South Africa","FDI, net inflows (% of GDP)","economy",2007,2.1999
+"South Africa","GDP growth (annual %)","economy",2007,5.3605
+"South Africa","Government final consumption (%)","governance",2007,17.814
+"South Africa","Gross domestic savings (% of GDP)","economy",2007,20.7025
+"South Africa","Inflation (annual %)","economy",2007,6.1778
+"South Africa","Labor force participation rate (%)","economy",2007,58.76
+"South Africa","Life expectancy at brith (years)","health & well-being",2007,54.452
+"South Africa","Market cap of domestic companies (%)","economy",2007,276.6007
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2007,75.3
+"South Africa","Real interest rate (%)","economy",2007,3.9663
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2007,24.6
+"South Africa","Tax revenue (%)","governance",2007,27.596
+"South Africa","Total reserves (% of external debt)","governance",2007,46.7474
+"South Africa","Unemployment total (%)","economy",2007,26.54
+"South Africa","Unemployment youth total (%)","economy",2007,52.4
+"South Africa","Vulnerable employment (%))","economy",2007,10.29
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2007,39.581
+"United States","Consumer price index (2010 = 100)","economy",2007,95.087
+"United States","Health expenditure (% of GDP)","health & well-being",2007,14.9186
+"United States","Death rate (x/1000)","health & well-being",2007,8
+"United States","Exports as a capacity to import","economy",2007,1666564619773.1
+"United States","Final consumption expenditure (% of GDP)","economy",2007,82.3787
+"United States","FDI, net inflows (% of GDP)","economy",2007,2.3984
+"United States","GDP growth (annual %)","economy",2007,1.8762
+"United States","Government final consumption (%)","governance",2007,15.2148
+"United States","Gini index","inequality",2007,40.8
+"United States","Gross domestic savings (% of GDP)","economy",2007,17.6213
+"United States","Income share of top 20%","inequality",2007,46.3
+"United States","Income share of bottom 20%","inequality",2007,5.2
+"United States","Inflation (annual %)","economy",2007,2.8527
+"United States","Labor force participation rate (%)","economy",2007,74.11
+"United States","Life expectancy at brith (years)","health & well-being",2007,77.9878
+"United States","Market cap of domestic companies (%)","economy",2007,137.8527
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2007,7.7
+"United States","Real interest rate (%)","economy",2007,5.2234
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2007,12.4
+"United States","Tax revenue (%)","governance",2007,11.3074
+"United States","Unemployment total (%)","economy",2007,4.62
+"United States","Unemployment youth total (%)","economy",2007,10.4
+"United States","Vulnerable employment (%))","economy",2007,4.43
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2008,9.4294
+"Germany","Consumer price index (2010 = 100)","economy",2008,98.5999
+"Germany","Health expenditure (% of GDP)","health & well-being",2008,10.251
+"Germany","Death rate (x/1000)","health & well-being",2008,10.3
+"Germany","Exports as a capacity to import","economy",2008,1117618162434.34
+"Germany","Final consumption expenditure (% of GDP)","economy",2008,72.4802
+"Germany","FDI, net inflows (% of GDP)","economy",2008,0.8299
+"Germany","GDP growth (annual %)","economy",2008,0.9599
+"Germany","Government final consumption (%)","governance",2008,18.2556
+"Germany","Gini index","inequality",2008,31.1
+"Germany","Gross domestic savings (% of GDP)","economy",2008,27.5198
+"Germany","Income share of top 20%","inequality",2008,39.6
+"Germany","Income share of bottom 20%","inequality",2008,8.4
+"Germany","Inflation (annual %)","economy",2008,2.6284
+"Germany","Labor force participation rate (%)","economy",2008,75.94
+"Germany","Life expectancy at brith (years)","health & well-being",2008,79.7366
+"Germany","Market cap of domestic companies (%)","economy",2008,29.774
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2008,4.4
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2008,12.5
+"Germany","Tax revenue (%)","governance",2008,11.4723
+"Germany","Unemployment total (%)","economy",2008,7.53
+"Germany","Unemployment youth total (%)","economy",2008,10.56
+"Germany","Vulnerable employment (%))","economy",2008,6.89
+"India","Adolescent fertility rate (x/1000)","health & well-being",2008,41.2576
+"India","Consumer price index (2010 = 100)","economy",2008,80.5306
+"India","Health expenditure (% of GDP)","health & well-being",2008,3.5147
+"India","Death rate (x/1000)","health & well-being",2008,7.72
+"India","Exports as a capacity to import","economy",2008,16346157153792.5
+"India","Final consumption expenditure (% of GDP)","economy",2008,67.2153
+"India","FDI, net inflows (% of GDP)","economy",2008,3.6205
+"India","GDP growth (annual %)","economy",2008,3.0867
+"India","Government final consumption (%)","governance",2008,10.5385
+"India","Gross domestic savings (% of GDP)","economy",2008,32.7847
+"India","Inflation (annual %)","economy",2008,8.3493
+"India","Labor force participation rate (%)","economy",2008,57.93
+"India","Life expectancy at brith (years)","health & well-being",2008,65.794
+"India","Market cap of domestic companies (%)","economy",2008,66.0031
+"India","Mortality rate under-5 (x/1000)","health & well-being",2008,64.7
+"India","Real interest rate (%)","economy",2008,3.7718
+"India","Suicide mortality rate (x/100,000)","health & well-being",2008,15.1
+"India","Tax revenue (%)","governance",2008,10.9772
+"India","Total reserves (% of external debt)","governance",2008,113.3463
+"India","Unemployment total (%)","economy",2008,5.36
+"India","Unemployment youth total (%)","economy",2008,18.62
+"India","Vulnerable employment (%))","economy",2008,82.52
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2008,68.2016
+"South Africa","Consumer price index (2010 = 100)","economy",2008,89.587
+"South Africa","Health expenditure (% of GDP)","health & well-being",2008,6.5458
+"South Africa","Death rate (x/1000)","health & well-being",2008,13.206
+"South Africa","Exports as a capacity to import","economy",2008,788688467992.506
+"South Africa","Final consumption expenditure (% of GDP)","economy",2008,78.673
+"South Africa","FDI, net inflows (% of GDP)","economy",2008,3.447
+"South Africa","GDP growth (annual %)","economy",2008,3.191
+"South Africa","Government final consumption (%)","governance",2008,18.6579
+"South Africa","Gross domestic savings (% of GDP)","economy",2008,21.327
+"South Africa","Inflation (annual %)","economy",2008,10.0553
+"South Africa","Labor force participation rate (%)","economy",2008,59.01
+"South Africa","Life expectancy at brith (years)","health & well-being",2008,55.36
+"South Africa","Market cap of domestic companies (%)","economy",2008,168.3231
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2008,68.7
+"South Africa","Real interest rate (%)","economy",2008,5.7828
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2008,26.7
+"South Africa","Tax revenue (%)","governance",2008,26.8132
+"South Africa","Total reserves (% of external debt)","governance",2008,47.3323
+"South Africa","Unemployment total (%)","economy",2008,22.41
+"South Africa","Unemployment youth total (%)","economy",2008,44.81
+"South Africa","Vulnerable employment (%))","economy",2008,10.2
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2008,37.2522
+"United States","Consumer price index (2010 = 100)","economy",2008,98.7375
+"United States","Health expenditure (% of GDP)","health & well-being",2008,15.2863
+"United States","Death rate (x/1000)","health & well-being",2008,8.1
+"United States","Exports as a capacity to import","economy",2008,1674998913143.81
+"United States","Final consumption expenditure (% of GDP)","economy",2008,83.7957
+"United States","FDI, net inflows (% of GDP)","economy",2008,2.3183
+"United States","GDP growth (annual %)","economy",2008,-0.1366
+"United States","Government final consumption (%)","governance",2008,15.9887
+"United States","Gini index","inequality",2008,40.8
+"United States","Gross domestic savings (% of GDP)","economy",2008,16.2043
+"United States","Income share of top 20%","inequality",2008,46.2
+"United States","Income share of bottom 20%","inequality",2008,5.2
+"United States","Inflation (annual %)","economy",2008,3.8391
+"United States","Labor force participation rate (%)","economy",2008,74.04
+"United States","Life expectancy at brith (years)","health & well-being",2008,78.039
+"United States","Market cap of domestic companies (%)","economy",2008,78.7766
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2008,7.6
+"United States","Real interest rate (%)","economy",2008,3.0824
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2008,12.7
+"United States","Tax revenue (%)","governance",2008,10.316
+"United States","Unemployment total (%)","economy",2008,5.78
+"United States","Unemployment youth total (%)","economy",2008,12.68
+"United States","Vulnerable employment (%))","economy",2008,4.32
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2009,9.0878
+"Germany","Consumer price index (2010 = 100)","economy",2009,98.9082
+"Germany","Health expenditure (% of GDP)","health & well-being",2009,11.2376
+"Germany","Death rate (x/1000)","health & well-being",2009,10.4
+"Germany","Exports as a capacity to import","economy",2009,1000915446454.35
+"Germany","Final consumption expenditure (% of GDP)","economy",2009,76.4324
+"Germany","FDI, net inflows (% of GDP)","economy",2009,1.6688
+"Germany","GDP growth (annual %)","economy",2009,-5.6938
+"Germany","Government final consumption (%)","governance",2009,19.9917
+"Germany","Gini index","inequality",2009,30.5
+"Germany","Gross domestic savings (% of GDP)","economy",2009,23.5676
+"Germany","Income share of top 20%","inequality",2009,39
+"Germany","Income share of bottom 20%","inequality",2009,8.3
+"Germany","Inflation (annual %)","economy",2009,0.3127
+"Germany","Labor force participation rate (%)","economy",2009,76.37
+"Germany","Life expectancy at brith (years)","health & well-being",2009,79.8366
+"Germany","Market cap of domestic companies (%)","economy",2009,38.0352
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2009,4.3
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2009,12.8
+"Germany","Tax revenue (%)","governance",2009,11.6149
+"Germany","Unemployment total (%)","economy",2009,7.74
+"Germany","Unemployment youth total (%)","economy",2009,11.22
+"Germany","Vulnerable employment (%))","economy",2009,6.76
+"India","Adolescent fertility rate (x/1000)","health & well-being",2009,37.9562
+"India","Consumer price index (2010 = 100)","economy",2009,89.2942
+"India","Health expenditure (% of GDP)","health & well-being",2009,3.4854
+"India","Death rate (x/1000)","health & well-being",2009,7.602
+"India","Exports as a capacity to import","economy",2009,15354717401602.4
+"India","Final consumption expenditure (% of GDP)","economy",2009,67.4196
+"India","FDI, net inflows (% of GDP)","economy",2009,2.6516
+"India","GDP growth (annual %)","economy",2009,7.8619
+"India","Government final consumption (%)","governance",2009,11.4597
+"India","Gross domestic savings (% of GDP)","economy",2009,32.5804
+"India","Inflation (annual %)","economy",2009,10.8824
+"India","Labor force participation rate (%)","economy",2009,57.14
+"India","Life expectancy at brith (years)","health & well-being",2009,66.244
+"India","Market cap of domestic companies (%)","economy",2009,101.8946
+"India","Mortality rate under-5 (x/1000)","health & well-being",2009,61.4
+"India","Real interest rate (%)","economy",2009,4.8086
+"India","Suicide mortality rate (x/100,000)","health & well-being",2009,14.5
+"India","Tax revenue (%)","governance",2009,9.8097
+"India","Total reserves (% of external debt)","governance",2009,111.0688
+"India","Unemployment total (%)","economy",2009,5.61
+"India","Unemployment youth total (%)","economy",2009,19.74
+"India","Vulnerable employment (%))","economy",2009,82.32
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2009,69.1452
+"South Africa","Consumer price index (2010 = 100)","economy",2009,96.0951
+"South Africa","Health expenditure (% of GDP)","health & well-being",2009,7.1146
+"South Africa","Death rate (x/1000)","health & well-being",2009,12.677
+"South Africa","Exports as a capacity to import","economy",2009,688958455864.338
+"South Africa","Final consumption expenditure (% of GDP)","economy",2009,79.3725
+"South Africa","FDI, net inflows (% of GDP)","economy",2009,2.5764
+"South Africa","GDP growth (annual %)","economy",2009,-1.5381
+"South Africa","Government final consumption (%)","governance",2009,19.8645
+"South Africa","Gross domestic savings (% of GDP)","economy",2009,20.6275
+"South Africa","Inflation (annual %)","economy",2009,7.2646
+"South Africa","Labor force participation rate (%)","economy",2009,57.38
+"South Africa","Life expectancy at brith (years)","health & well-being",2009,56.46
+"South Africa","Market cap of domestic companies (%)","economy",2009,269.9984
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2009,59.8
+"South Africa","Real interest rate (%)","economy",2009,3.9104
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2009,26.7
+"South Africa","Tax revenue (%)","governance",2009,24.3968
+"South Africa","Total reserves (% of external debt)","governance",2009,49.5249
+"South Africa","Unemployment total (%)","economy",2009,23.52
+"South Africa","Unemployment youth total (%)","economy",2009,47.59
+"South Africa","Vulnerable employment (%))","economy",2009,10.09
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2009,34.9234
+"United States","Consumer price index (2010 = 100)","economy",2009,98.3864
+"United States","Health expenditure (% of GDP)","health & well-being",2009,16.2837
+"United States","Death rate (x/1000)","health & well-being",2009,7.9
+"United States","Exports as a capacity to import","economy",2009,1622332150285.63
+"United States","Final consumption expenditure (% of GDP)","economy",2009,84.9392
+"United States","FDI, net inflows (% of GDP)","economy",2009,1.1148
+"United States","GDP growth (annual %)","economy",2009,-2.5368
+"United States","Government final consumption (%)","governance",2009,16.822
+"United States","Gini index","inequality",2009,40.6
+"United States","Gross domestic savings (% of GDP)","economy",2009,15.0608
+"United States","Income share of top 20%","inequality",2009,46.2
+"United States","Income share of bottom 20%","inequality",2009,5.4
+"United States","Inflation (annual %)","economy",2009,-0.3555
+"United States","Labor force participation rate (%)","economy",2009,73.3
+"United States","Life expectancy at brith (years)","health & well-being",2009,78.3902
+"United States","Market cap of domestic companies (%)","economy",2009,104.3488
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2009,7.5
+"United States","Real interest rate (%)","economy",2009,2.4688
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2009,12.8
+"United States","Tax revenue (%)","governance",2009,7.9195
+"United States","Unemployment total (%)","economy",2009,9.25
+"United States","Unemployment youth total (%)","economy",2009,17.44
+"United States","Vulnerable employment (%))","economy",2009,4.4
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2010,8.7462
+"Germany","Consumer price index (2010 = 100)","economy",2010,100
+"Germany","Health expenditure (% of GDP)","health & well-being",2010,11.0969
+"Germany","Death rate (x/1000)","health & well-being",2010,10.5
+"Germany","Exports as a capacity to import","economy",2010,1119622118732.8
+"Germany","Final consumption expenditure (% of GDP)","economy",2010,74.6719
+"Germany","FDI, net inflows (% of GDP)","economy",2010,2.5332
+"Germany","GDP growth (annual %)","economy",2010,4.1799
+"Germany","Government final consumption (%)","governance",2010,19.5632
+"Germany","Gini index","inequality",2010,30.2
+"Germany","Gross domestic savings (% of GDP)","economy",2010,25.3281
+"Germany","Income share of top 20%","inequality",2010,38.8
+"Germany","Income share of bottom 20%","inequality",2010,8.4
+"Germany","Inflation (annual %)","economy",2010,1.1038
+"Germany","Labor force participation rate (%)","economy",2010,76.73
+"Germany","Life expectancy at brith (years)","health & well-being",2010,79.9878
+"Germany","Market cap of domestic companies (%)","economy",2010,42.0957
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2010,4.2
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2010,13.2
+"Germany","Tax revenue (%)","governance",2010,11.1903
+"Germany","Unemployment total (%)","economy",2010,6.97
+"Germany","Unemployment youth total (%)","economy",2010,9.83
+"Germany","Vulnerable employment (%))","economy",2010,6.71
+"India","Adolescent fertility rate (x/1000)","health & well-being",2010,34.6548
+"India","Consumer price index (2010 = 100)","economy",2010,100
+"India","Health expenditure (% of GDP)","health & well-being",2010,3.2721
+"India","Death rate (x/1000)","health & well-being",2010,7.492
+"India","Exports as a capacity to import","economy",2010,18812319619117
+"India","Final consumption expenditure (% of GDP)","economy",2010,65.7325
+"India","FDI, net inflows (% of GDP)","economy",2010,1.635
+"India","GDP growth (annual %)","economy",2010,8.4976
+"India","Government final consumption (%)","governance",2010,11.0076
+"India","Gross domestic savings (% of GDP)","economy",2010,34.2675
+"India","Inflation (annual %)","economy",2010,11.9894
+"India","Labor force participation rate (%)","economy",2010,56.37
+"India","Life expectancy at brith (years)","health & well-being",2010,66.693
+"India","Market cap of domestic companies (%)","economy",2010,105.183
+"India","Mortality rate under-5 (x/1000)","health & well-being",2010,58.2
+"India","Real interest rate (%)","economy",2010,-1.9839
+"India","Suicide mortality rate (x/100,000)","health & well-being",2010,14.6
+"India","Tax revenue (%)","governance",2010,10.388
+"India","Total reserves (% of external debt)","governance",2010,103.4613
+"India","Unemployment total (%)","economy",2010,5.65
+"India","Unemployment youth total (%)","economy",2010,20.4
+"India","Vulnerable employment (%))","economy",2010,82.11
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2010,70.0888
+"South Africa","Consumer price index (2010 = 100)","economy",2010,100
+"South Africa","Health expenditure (% of GDP)","health & well-being",2010,7.4154
+"South Africa","Death rate (x/1000)","health & well-being",2010,12.085
+"South Africa","Exports as a capacity to import","economy",2010,7.86349e+11
+"South Africa","Final consumption expenditure (% of GDP)","economy",2010,79.2482
+"South Africa","FDI, net inflows (% of GDP)","economy",2010,0.984
+"South Africa","GDP growth (annual %)","economy",2010,3.0397
+"South Africa","Government final consumption (%)","governance",2010,20.2296
+"South Africa","Gross domestic savings (% of GDP)","economy",2010,20.7518
+"South Africa","Inflation (annual %)","economy",2010,4.0635
+"South Africa","Labor force participation rate (%)","economy",2010,55.8
+"South Africa","Life expectancy at brith (years)","health & well-being",2010,57.669
+"South Africa","Market cap of domestic companies (%)","economy",2010,246.4389
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2010,51.2
+"South Africa","Real interest rate (%)","economy",2010,3.2743
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2010,24.6
+"South Africa","Tax revenue (%)","governance",2010,25.0415
+"South Africa","Total reserves (% of external debt)","governance",2010,40.4202
+"South Africa","Unemployment total (%)","economy",2010,24.68
+"South Africa","Unemployment youth total (%)","economy",2010,50.52
+"South Africa","Vulnerable employment (%))","economy",2010,10.3
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2010,32.5946
+"United States","Consumer price index (2010 = 100)","economy",2010,100
+"United States","Health expenditure (% of GDP)","health & well-being",2010,16.3454
+"United States","Death rate (x/1000)","health & well-being",2010,7.995
+"United States","Exports as a capacity to import","economy",2010,1795476805495.93
+"United States","Final consumption expenditure (% of GDP)","economy",2010,84.6847
+"United States","FDI, net inflows (% of GDP)","economy",2010,1.7612
+"United States","GDP growth (annual %)","economy",2010,2.5638
+"United States","Government final consumption (%)","governance",2010,16.7432
+"United States","Gini index","inequality",2010,40
+"United States","Gross domestic savings (% of GDP)","economy",2010,15.3153
+"United States","Income share of top 20%","inequality",2010,45.5
+"United States","Income share of bottom 20%","inequality",2010,5.3
+"United States","Inflation (annual %)","economy",2010,1.64
+"United States","Labor force participation rate (%)","economy",2010,72.55
+"United States","Life expectancy at brith (years)","health & well-being",2010,78.5415
+"United States","Market cap of domestic companies (%)","economy",2010,115.2841
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2010,7.3
+"United States","Real interest rate (%)","economy",2010,2.0607
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2010,13.1
+"United States","Tax revenue (%)","governance",2010,8.5957
+"United States","Unemployment total (%)","economy",2010,9.63
+"United States","Unemployment youth total (%)","economy",2010,18.29
+"United States","Vulnerable employment (%))","economy",2010,4.39
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2011,8.4046
+"Germany","Consumer price index (2010 = 100)","economy",2011,102.0752
+"Germany","Health expenditure (% of GDP)","health & well-being",2011,10.7763
+"Germany","Death rate (x/1000)","health & well-being",2011,10.6
+"Germany","Exports as a capacity to import","economy",2011,1181821990621.45
+"Germany","Final consumption expenditure (% of GDP)","economy",2011,73.4566
+"Germany","FDI, net inflows (% of GDP)","economy",2011,2.6048
+"Germany","GDP growth (annual %)","economy",2011,3.9252
+"Germany","Government final consumption (%)","governance",2011,19.0699
+"Germany","Gini index","inequality",2011,30.5
+"Germany","Gross domestic savings (% of GDP)","economy",2011,26.5434
+"Germany","Income share of top 20%","inequality",2011,39.1
+"Germany","Income share of bottom 20%","inequality",2011,8.5
+"Germany","Inflation (annual %)","economy",2011,2.0752
+"Germany","Labor force participation rate (%)","economy",2011,77.44
+"Germany","Life expectancy at brith (years)","health & well-being",2011,80.4366
+"Germany","Market cap of domestic companies (%)","economy",2011,31.6338
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2011,4.1
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2011,13.2
+"Germany","Tax revenue (%)","governance",2011,11.4814
+"Germany","Unemployment total (%)","economy",2011,5.82
+"Germany","Unemployment youth total (%)","economy",2011,8.53
+"Germany","Vulnerable employment (%))","economy",2011,6.89
+"India","Adolescent fertility rate (x/1000)","health & well-being",2011,31.3534
+"India","Consumer price index (2010 = 100)","economy",2011,108.8584
+"India","Health expenditure (% of GDP)","health & well-being",2011,3.2463
+"India","Death rate (x/1000)","health & well-being",2011,7.393
+"India","Exports as a capacity to import","economy",2011,2.143931e+13
+"India","Final consumption expenditure (% of GDP)","economy",2011,67.2917
+"India","FDI, net inflows (% of GDP)","economy",2011,2.0021
+"India","GDP growth (annual %)","economy",2011,5.2413
+"India","Government final consumption (%)","governance",2011,11.0845
+"India","Gross domestic savings (% of GDP)","economy",2011,32.7083
+"India","Inflation (annual %)","economy",2011,8.8584
+"India","Labor force participation rate (%)","economy",2011,55.42
+"India","Life expectancy at brith (years)","health & well-being",2011,67.13
+"India","Market cap of domestic companies (%)","economy",2011,68.2701
+"India","Mortality rate under-5 (x/1000)","health & well-being",2011,55.1
+"India","Real interest rate (%)","economy",2011,1.318
+"India","Suicide mortality rate (x/100,000)","health & well-being",2011,14.7
+"India","Tax revenue (%)","governance",2011,10.1774
+"India","Total reserves (% of external debt)","governance",2011,89.3362
+"India","Unemployment total (%)","economy",2011,5.65
+"India","Unemployment youth total (%)","economy",2011,20.81
+"India","Vulnerable employment (%))","economy",2011,80.67
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2011,71.0324
+"South Africa","Consumer price index (2010 = 100)","economy",2011,105.0172
+"South Africa","Health expenditure (% of GDP)","health & well-being",2011,7.4973
+"South Africa","Death rate (x/1000)","health & well-being",2011,11.483
+"South Africa","Exports as a capacity to import","economy",2011,864814236221.841
+"South Africa","Final consumption expenditure (% of GDP)","economy",2011,79.4289
+"South Africa","FDI, net inflows (% of GDP)","economy",2011,0.994
+"South Africa","GDP growth (annual %)","economy",2011,3.2842
+"South Africa","Government final consumption (%)","governance",2011,19.8622
+"South Africa","Gross domestic savings (% of GDP)","economy",2011,20.5711
+"South Africa","Inflation (annual %)","economy",2011,5.0172
+"South Africa","Labor force participation rate (%)","economy",2011,55.99
+"South Africa","Life expectancy at brith (years)","health & well-being",2011,58.895
+"South Africa","Market cap of domestic companies (%)","economy",2011,189.4816
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2011,44.8
+"South Africa","Real interest rate (%)","economy",2011,2.3165
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2011,22.4
+"South Africa","Tax revenue (%)","governance",2011,25.1798
+"South Africa","Total reserves (% of external debt)","governance",2011,41.0826
+"South Africa","Unemployment total (%)","economy",2011,24.64
+"South Africa","Unemployment youth total (%)","economy",2011,49.79
+"South Africa","Vulnerable employment (%))","economy",2011,10.14
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2011,30.2658
+"United States","Consumer price index (2010 = 100)","economy",2011,103.1568
+"United States","Health expenditure (% of GDP)","health & well-being",2011,16.2998
+"United States","Death rate (x/1000)","health & well-being",2011,8.073
+"United States","Exports as a capacity to import","economy",2011,1900833027791.04
+"United States","Final consumption expenditure (% of GDP)","economy",2011,84.6247
+"United States","FDI, net inflows (% of GDP)","economy",2011,1.6953
+"United States","GDP growth (annual %)","economy",2011,1.5508
+"United States","Government final consumption (%)","governance",2011,16.1605
+"United States","Gini index","inequality",2011,40.9
+"United States","Gross domestic savings (% of GDP)","economy",2011,15.3753
+"United States","Income share of top 20%","inequality",2011,46.4
+"United States","Income share of bottom 20%","inequality",2011,5.2
+"United States","Inflation (annual %)","economy",2011,3.1568
+"United States","Labor force participation rate (%)","economy",2011,71.96
+"United States","Life expectancy at brith (years)","health & well-being",2011,78.6415
+"United States","Market cap of domestic companies (%)","economy",2011,100.6313
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2011,7.2
+"United States","Real interest rate (%)","economy",2011,1.1373
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2011,13.4
+"United States","Tax revenue (%)","governance",2011,9.574
+"United States","Unemployment total (%)","economy",2011,8.95
+"United States","Unemployment youth total (%)","economy",2011,17.2
+"United States","Vulnerable employment (%))","economy",2011,4.27
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2012,8.063
+"Germany","Consumer price index (2010 = 100)","economy",2012,104.1253
+"Germany","Health expenditure (% of GDP)","health & well-being",2012,10.847
+"Germany","Death rate (x/1000)","health & well-being",2012,10.8
+"Germany","Exports as a capacity to import","economy",2012,1214091288009.29
+"Germany","Final consumption expenditure (% of GDP)","economy",2012,74.1838
+"Germany","FDI, net inflows (% of GDP)","economy",2012,1.8553
+"Germany","GDP growth (annual %)","economy",2012,0.4185
+"Germany","Government final consumption (%)","governance",2012,19.2769
+"Germany","Gini index","inequality",2012,30.9
+"Germany","Gross domestic savings (% of GDP)","economy",2012,25.8162
+"Germany","Income share of top 20%","inequality",2012,39.2
+"Germany","Income share of bottom 20%","inequality",2012,8.2
+"Germany","Inflation (annual %)","economy",2012,2.0085
+"Germany","Labor force participation rate (%)","economy",2012,77.36
+"Germany","Life expectancy at brith (years)","health & well-being",2012,80.539
+"Germany","Market cap of domestic companies (%)","economy",2012,42.1369
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2012,4
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2012,12.9
+"Germany","Tax revenue (%)","governance",2012,11.623
+"Germany","Unemployment total (%)","economy",2012,5.38
+"Germany","Unemployment youth total (%)","economy",2012,8.05
+"Germany","Vulnerable employment (%))","economy",2012,6.82
+"India","Adolescent fertility rate (x/1000)","health & well-being",2012,28.052
+"India","Consumer price index (2010 = 100)","economy",2012,118.9957
+"India","Health expenditure (% of GDP)","health & well-being",2012,3.3294
+"India","Death rate (x/1000)","health & well-being",2012,7.312
+"India","Exports as a capacity to import","economy",2012,22596983202024.1
+"India","Final consumption expenditure (% of GDP)","economy",2012,67.1448
+"India","FDI, net inflows (% of GDP)","economy",2012,1.3129
+"India","GDP growth (annual %)","economy",2012,5.4564
+"India","Government final consumption (%)","governance",2012,10.6839
+"India","Gross domestic savings (% of GDP)","economy",2012,32.8552
+"India","Inflation (annual %)","economy",2012,9.3124
+"India","Labor force participation rate (%)","economy",2012,54.51
+"India","Life expectancy at brith (years)","health & well-being",2012,67.545
+"India","Market cap of domestic companies (%)","economy",2012,76.0772
+"India","Mortality rate under-5 (x/1000)","health & well-being",2012,52
+"India","Real interest rate (%)","economy",2012,2.4735
+"India","Suicide mortality rate (x/100,000)","health & well-being",2012,14.3
+"India","Tax revenue (%)","governance",2012,10.8368
+"India","Total reserves (% of external debt)","governance",2012,76.5267
+"India","Unemployment total (%)","economy",2012,5.66
+"India","Unemployment youth total (%)","economy",2012,21.24
+"India","Vulnerable employment (%))","economy",2012,79.16
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2012,71.976
+"South Africa","Consumer price index (2010 = 100)","economy",2012,111.0283
+"South Africa","Health expenditure (% of GDP)","health & well-being",2012,7.7526
+"South Africa","Death rate (x/1000)","health & well-being",2012,10.918
+"South Africa","Exports as a capacity to import","economy",2012,836501320261.047
+"South Africa","Final consumption expenditure (% of GDP)","economy",2012,81.2217
+"South Africa","FDI, net inflows (% of GDP)","economy",2012,1.1672
+"South Africa","GDP growth (annual %)","economy",2012,2.2134
+"South Africa","Government final consumption (%)","governance",2012,20.2599
+"South Africa","Gross domestic savings (% of GDP)","economy",2012,18.7783
+"South Africa","Inflation (annual %)","economy",2012,5.7239
+"South Africa","Labor force participation rate (%)","economy",2012,56.57
+"South Africa","Life expectancy at brith (years)","health & well-being",2012,60.06
+"South Africa","Market cap of domestic companies (%)","economy",2012,229.0306
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2012,40.9
+"South Africa","Real interest rate (%)","economy",2012,3.2933
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2012,22.9
+"South Africa","Tax revenue (%)","governance",2012,25.5881
+"South Africa","Total reserves (% of external debt)","governance",2012,34.4884
+"South Africa","Unemployment total (%)","economy",2012,24.73
+"South Africa","Unemployment youth total (%)","economy",2012,51.39
+"South Africa","Vulnerable employment (%))","economy",2012,10.09
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2012,27.937
+"United States","Consumer price index (2010 = 100)","economy",2012,105.2915
+"United States","Health expenditure (% of GDP)","health & well-being",2012,16.2853
+"United States","Death rate (x/1000)","health & well-being",2012,8.102
+"United States","Exports as a capacity to import","economy",2012,1977194125632.29
+"United States","Final consumption expenditure (% of GDP)","economy",2012,83.4895
+"United States","FDI, net inflows (% of GDP)","economy",2012,1.5456
+"United States","GDP growth (annual %)","economy",2012,2.2495
+"United States","Government final consumption (%)","governance",2012,15.5336
+"United States","Gini index","inequality",2012,40.9
+"United States","Gross domestic savings (% of GDP)","economy",2012,16.5105
+"United States","Income share of top 20%","inequality",2012,46.4
+"United States","Income share of bottom 20%","inequality",2012,5.2
+"United States","Inflation (annual %)","economy",2012,2.0693
+"United States","Labor force participation rate (%)","economy",2012,72.12
+"United States","Life expectancy at brith (years)","health & well-being",2012,78.7415
+"United States","Market cap of domestic companies (%)","economy",2012,115.2579
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2012,7.1
+"United States","Real interest rate (%)","economy",2012,1.3071
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2012,13.5
+"United States","Tax revenue (%)","governance",2012,9.7983
+"United States","Unemployment total (%)","economy",2012,8.07
+"United States","Unemployment youth total (%)","economy",2012,16.4
+"United States","Vulnerable employment (%))","economy",2012,4.25
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2013,8.0694
+"Germany","Consumer price index (2010 = 100)","economy",2013,105.6921
+"Germany","Health expenditure (% of GDP)","health & well-being",2013,10.9919
+"Germany","Death rate (x/1000)","health & well-being",2013,11.1
+"Germany","Exports as a capacity to import","economy",2013,1239513216766.17
+"Germany","Final consumption expenditure (% of GDP)","economy",2013,74.1878
+"Germany","FDI, net inflows (% of GDP)","economy",2013,1.8003
+"Germany","GDP growth (annual %)","economy",2013,0.4376
+"Germany","Government final consumption (%)","governance",2013,19.6309
+"Germany","Gini index","inequality",2013,31.1
+"Germany","Gross domestic savings (% of GDP)","economy",2013,25.8122
+"Germany","Income share of top 20%","inequality",2013,39.5
+"Germany","Income share of bottom 20%","inequality",2013,8.2
+"Germany","Inflation (annual %)","economy",2013,1.5047
+"Germany","Labor force participation rate (%)","economy",2013,77.7
+"Germany","Life expectancy at brith (years)","health & well-being",2013,80.4902
+"Germany","Market cap of domestic companies (%)","economy",2013,51.8682
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2013,4
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2013,13.4
+"Germany","Tax revenue (%)","governance",2013,11.6115
+"Germany","Unemployment total (%)","economy",2013,5.23
+"Germany","Unemployment youth total (%)","economy",2013,7.83
+"Germany","Vulnerable employment (%))","economy",2013,6.48
+"India","Adolescent fertility rate (x/1000)","health & well-being",2013,25.077
+"India","Consumer price index (2010 = 100)","economy",2013,132.161
+"India","Health expenditure (% of GDP)","health & well-being",2013,3.7494
+"India","Death rate (x/1000)","health & well-being",2013,7.251
+"India","Exports as a capacity to import","economy",2013,23669683919039.9
+"India","Final consumption expenditure (% of GDP)","economy",2013,67.9409
+"India","FDI, net inflows (% of GDP)","economy",2013,1.5163
+"India","GDP growth (annual %)","economy",2013,6.3861
+"India","Government final consumption (%)","governance",2013,10.2952
+"India","Gross domestic savings (% of GDP)","economy",2013,32.0591
+"India","Inflation (annual %)","economy",2013,11.0637
+"India","Labor force participation rate (%)","economy",2013,54.09
+"India","Life expectancy at brith (years)","health & well-being",2013,67.931
+"India","Market cap of domestic companies (%)","economy",2013,68.1342
+"India","Mortality rate under-5 (x/1000)","health & well-being",2013,49.1
+"India","Real interest rate (%)","economy",2013,3.866
+"India","Suicide mortality rate (x/100,000)","health & well-being",2013,13.7
+"India","Tax revenue (%)","governance",2013,11.0016
+"India","Total reserves (% of external debt)","governance",2013,69.7708
+"India","Unemployment total (%)","economy",2013,5.67
+"India","Unemployment youth total (%)","economy",2013,21.7
+"India","Vulnerable employment (%))","economy",2013,78.52
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2013,71.1624
+"South Africa","Consumer price index (2010 = 100)","economy",2013,117.4417
+"South Africa","Health expenditure (% of GDP)","health & well-being",2013,7.721
+"South Africa","Death rate (x/1000)","health & well-being",2013,10.43
+"South Africa","Exports as a capacity to import","economy",2013,857687378241.346
+"South Africa","Final consumption expenditure (% of GDP)","economy",2013,81.1456
+"South Africa","FDI, net inflows (% of GDP)","economy",2013,2.2442
+"South Africa","GDP growth (annual %)","economy",2013,2.4852
+"South Africa","Government final consumption (%)","governance",2013,20.575
+"South Africa","Gross domestic savings (% of GDP)","economy",2013,18.8544
+"South Africa","Inflation (annual %)","economy",2013,5.7764
+"South Africa","Labor force participation rate (%)","economy",2013,57.25
+"South Africa","Life expectancy at brith (years)","health & well-being",2013,61.099
+"South Africa","Market cap of domestic companies (%)","economy",2013,257.0165
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2013,39.2
+"South Africa","Real interest rate (%)","economy",2013,2.2088
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2013,23.7
+"South Africa","Tax revenue (%)","governance",2013,26.0439
+"South Africa","Total reserves (% of external debt)","governance",2013,35.4419
+"South Africa","Unemployment total (%)","economy",2013,24.56
+"South Africa","Unemployment youth total (%)","economy",2013,51.31
+"South Africa","Vulnerable employment (%))","economy",2013,9.53
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2013,26.3216
+"United States","Consumer price index (2010 = 100)","economy",2013,106.8338
+"United States","Health expenditure (% of GDP)","health & well-being",2013,16.2104
+"United States","Death rate (x/1000)","health & well-being",2013,8.215
+"United States","Exports as a capacity to import","economy",2013,2079691228819.74
+"United States","Final consumption expenditure (% of GDP)","economy",2013,82.5102
+"United States","FDI, net inflows (% of GDP)","economy",2013,1.7166
+"United States","GDP growth (annual %)","economy",2013,1.8421
+"United States","Government final consumption (%)","governance",2013,15.0851
+"United States","Gini index","inequality",2013,40.7
+"United States","Gross domestic savings (% of GDP)","economy",2013,17.4898
+"United States","Income share of top 20%","inequality",2013,46.2
+"United States","Income share of bottom 20%","inequality",2013,5.3
+"United States","Inflation (annual %)","economy",2013,1.4648
+"United States","Labor force participation rate (%)","economy",2013,71.67
+"United States","Life expectancy at brith (years)","health & well-being",2013,78.7415
+"United States","Market cap of domestic companies (%)","economy",2013,143.1937
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2013,7
+"United States","Real interest rate (%)","economy",2013,1.4693
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2013,13.5
+"United States","Tax revenue (%)","governance",2013,10.5199
+"United States","Unemployment total (%)","economy",2013,7.38
+"United States","Unemployment youth total (%)","economy",2013,15.43
+"United States","Vulnerable employment (%))","economy",2013,4.16
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2014,8.0758
+"Germany","Consumer price index (2010 = 100)","economy",2014,106.6506
+"Germany","Health expenditure (% of GDP)","health & well-being",2014,11.0158
+"Germany","Death rate (x/1000)","health & well-being",2014,10.7
+"Germany","Exports as a capacity to import","economy",2014,1315730637189.37
+"Germany","Final consumption expenditure (% of GDP)","economy",2014,73.0113
+"Germany","FDI, net inflows (% of GDP)","economy",2014,0.5018
+"Germany","GDP growth (annual %)","economy",2014,2.2095
+"Germany","Government final consumption (%)","governance",2014,19.589
+"Germany","Gini index","inequality",2014,30.9
+"Germany","Gross domestic savings (% of GDP)","economy",2014,26.9887
+"Germany","Income share of top 20%","inequality",2014,39.1
+"Germany","Income share of bottom 20%","inequality",2014,8.1
+"Germany","Inflation (annual %)","economy",2014,0.9068
+"Germany","Labor force participation rate (%)","economy",2014,77.71
+"Germany","Life expectancy at brith (years)","health & well-being",2014,81.0902
+"Germany","Market cap of domestic companies (%)","economy",2014,44.7625
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2014,3.9
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2014,13.4
+"Germany","Tax revenue (%)","governance",2014,11.4826
+"Germany","Unemployment total (%)","economy",2014,4.98
+"Germany","Unemployment youth total (%)","economy",2014,7.75
+"Germany","Vulnerable employment (%))","economy",2014,6.32
+"India","Adolescent fertility rate (x/1000)","health & well-being",2014,22.102
+"India","Consumer price index (2010 = 100)","economy",2014,140.9491
+"India","Health expenditure (% of GDP)","health & well-being",2014,3.6196
+"India","Death rate (x/1000)","health & well-being",2014,7.212
+"India","Exports as a capacity to import","economy",2014,23606651561331.9
+"India","Final consumption expenditure (% of GDP)","economy",2014,68.5686
+"India","FDI, net inflows (% of GDP)","economy",2014,1.6957
+"India","GDP growth (annual %)","economy",2014,7.4102
+"India","Government final consumption (%)","governance",2014,10.4409
+"India","Gross domestic savings (% of GDP)","economy",2014,31.4314
+"India","Inflation (annual %)","economy",2014,6.6495
+"India","Labor force participation rate (%)","economy",2014,53.68
+"India","Life expectancy at brith (years)","health & well-being",2014,68.286
+"India","Market cap of domestic companies (%)","economy",2014,82.7172
+"India","Mortality rate under-5 (x/1000)","health & well-being",2014,46.2
+"India","Real interest rate (%)","economy",2014,6.6952
+"India","Suicide mortality rate (x/100,000)","health & well-being",2014,12.8
+"India","Tax revenue (%)","governance",2014,9.9847
+"India","Total reserves (% of external debt)","governance",2014,71.0548
+"India","Unemployment total (%)","economy",2014,5.6
+"India","Unemployment youth total (%)","economy",2014,21.99
+"India","Vulnerable employment (%))","economy",2014,77.83
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2014,70.3488
+"South Africa","Consumer price index (2010 = 100)","economy",2014,124.648
+"South Africa","Health expenditure (% of GDP)","health & well-being",2014,7.9302
+"South Africa","Death rate (x/1000)","health & well-being",2014,10.044
+"South Africa","Exports as a capacity to import","economy",2014,874546423561.295
+"South Africa","Final consumption expenditure (% of GDP)","economy",2014,80.7648
+"South Africa","FDI, net inflows (% of GDP)","economy",2014,1.6505
+"South Africa","GDP growth (annual %)","economy",2014,1.847
+"South Africa","Government final consumption (%)","governance",2014,20.7957
+"South Africa","Gross domestic savings (% of GDP)","economy",2014,19.2352
+"South Africa","Inflation (annual %)","economy",2014,6.136
+"South Africa","Labor force participation rate (%)","economy",2014,57.64
+"South Africa","Life expectancy at brith (years)","health & well-being",2014,61.968
+"South Africa","Market cap of domestic companies (%)","economy",2014,266.1495
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2014,38.1
+"South Africa","Real interest rate (%)","economy",2014,3.39
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2014,24.1
+"South Africa","Tax revenue (%)","governance",2014,26.5412
+"South Africa","Total reserves (% of external debt)","governance",2014,34.8363
+"South Africa","Unemployment total (%)","economy",2014,24.89
+"South Africa","Unemployment youth total (%)","economy",2014,51.34
+"South Africa","Vulnerable employment (%))","economy",2014,8.83
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2014,24.7062
+"United States","Consumer price index (2010 = 100)","economy",2014,108.5669
+"United States","Health expenditure (% of GDP)","health & well-being",2014,16.4064
+"United States","Death rate (x/1000)","health & well-being",2014,8.237
+"United States","Exports as a capacity to import","economy",2014,2186915374027.3
+"United States","Final consumption expenditure (% of GDP)","economy",2014,82.0907
+"United States","FDI, net inflows (% of GDP)","economy",2014,1.4369
+"United States","GDP growth (annual %)","economy",2014,2.526
+"United States","Government final consumption (%)","governance",2014,14.6368
+"United States","Gini index","inequality",2014,41.5
+"United States","Gross domestic savings (% of GDP)","economy",2014,17.9093
+"United States","Income share of top 20%","inequality",2014,47.2
+"United States","Income share of bottom 20%","inequality",2014,5.2
+"United States","Inflation (annual %)","economy",2014,1.6222
+"United States","Labor force participation rate (%)","economy",2014,71.58
+"United States","Life expectancy at brith (years)","health & well-being",2014,78.8415
+"United States","Market cap of domestic companies (%)","economy",2014,150.2273
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2014,6.9
+"United States","Real interest rate (%)","economy",2014,1.3747
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2014,14
+"United States","Tax revenue (%)","governance",2014,10.9479
+"United States","Unemployment total (%)","economy",2014,6.17
+"United States","Unemployment youth total (%)","economy",2014,13.28
+"United States","Vulnerable employment (%))","economy",2014,4.07
+"Germany","Adolescent fertility rate (x/1000)","health & well-being",2015,8.0822
+"Germany","Consumer price index (2010 = 100)","economy",2015,107.1992
+"Germany","Health expenditure (% of GDP)","health & well-being",2015,11.178
+"Germany","Death rate (x/1000)","health & well-being",2015,11.3
+"Germany","Exports as a capacity to import","economy",2015,1.419906e+12
+"Germany","Final consumption expenditure (% of GDP)","economy",2015,72.6618
+"Germany","FDI, net inflows (% of GDP)","economy",2015,1.8599
+"Germany","GDP growth (annual %)","economy",2015,1.4919
+"Germany","Government final consumption (%)","governance",2015,19.6918
+"Germany","Gini index","inequality",2015,31.7
+"Germany","Gross domestic savings (% of GDP)","economy",2015,27.3382
+"Germany","Income share of top 20%","inequality",2015,39.7
+"Germany","Income share of bottom 20%","inequality",2015,7.8
+"Germany","Inflation (annual %)","economy",2015,0.5144
+"Germany","Labor force participation rate (%)","economy",2015,77.57
+"Germany","Life expectancy at brith (years)","health & well-being",2015,80.6415
+"Germany","Market cap of domestic companies (%)","economy",2015,51.1228
+"Germany","Mortality rate under-5 (x/1000)","health & well-being",2015,3.9
+"Germany","Suicide mortality rate (x/100,000)","health & well-being",2015,13.3
+"Germany","Tax revenue (%)","governance",2015,11.4787
+"Germany","Unemployment total (%)","economy",2015,4.62
+"Germany","Unemployment youth total (%)","economy",2015,7.23
+"Germany","Vulnerable employment (%))","economy",2015,6.13
+"India","Adolescent fertility rate (x/1000)","health & well-being",2015,19.127
+"India","Consumer price index (2010 = 100)","economy",2015,147.8654
+"India","Health expenditure (% of GDP)","health & well-being",2015,3.5957
+"India","Death rate (x/1000)","health & well-being",2015,7.194
+"India","Exports as a capacity to import","economy",2015,22506663130907.3
+"India","Final consumption expenditure (% of GDP)","economy",2015,69.4356
+"India","FDI, net inflows (% of GDP)","economy",2015,2.0921
+"India","GDP growth (annual %)","economy",2015,7.9963
+"India","Government final consumption (%)","governance",2015,10.4283
+"India","Gross domestic savings (% of GDP)","economy",2015,30.5644
+"India","Inflation (annual %)","economy",2015,4.907
+"India","Labor force participation rate (%)","economy",2015,53.29
+"India","Life expectancy at brith (years)","health & well-being",2015,68.607
+"India","Market cap of domestic companies (%)","economy",2015,82.9616
+"India","Mortality rate under-5 (x/1000)","health & well-being",2015,43.5
+"India","Real interest rate (%)","economy",2015,7.5565
+"India","Suicide mortality rate (x/100,000)","health & well-being",2015,12.3
+"India","Tax revenue (%)","governance",2015,10.5697
+"India","Total reserves (% of external debt)","governance",2015,73.7887
+"India","Unemployment total (%)","economy",2015,5.56
+"India","Unemployment youth total (%)","economy",2015,22.33
+"India","Vulnerable employment (%))","economy",2015,77.08
+"South Africa","Adolescent fertility rate (x/1000)","health & well-being",2015,69.5352
+"South Africa","Consumer price index (2010 = 100)","economy",2015,130.2686
+"South Africa","Health expenditure (% of GDP)","health & well-being",2015,8.2009
+"South Africa","Death rate (x/1000)","health & well-being",2015,9.769
+"South Africa","Exports as a capacity to import","economy",2015,925765082188.685
+"South Africa","Final consumption expenditure (% of GDP)","economy",2015,80.2126
+"South Africa","FDI, net inflows (% of GDP)","economy",2015,0.4789
+"South Africa","GDP growth (annual %)","economy",2015,1.1937
+"South Africa","Government final consumption (%)","governance",2015,20.4544
+"South Africa","Gross domestic savings (% of GDP)","economy",2015,19.7874
+"South Africa","Inflation (annual %)","economy",2015,4.5092
+"South Africa","Labor force participation rate (%)","economy",2015,59.09
+"South Africa","Life expectancy at brith (years)","health & well-being",2015,62.649
+"South Africa","Market cap of domestic companies (%)","economy",2015,231.7058
+"South Africa","Mortality rate under-5 (x/1000)","health & well-being",2015,37.1
+"South Africa","Real interest rate (%)","economy",2015,4.0373
+"South Africa","Suicide mortality rate (x/100,000)","health & well-being",2015,24.5
+"South Africa","Tax revenue (%)","governance",2015,27.3428
+"South Africa","Total reserves (% of external debt)","governance",2015,36.8853
+"South Africa","Unemployment total (%)","economy",2015,25.15
+"South Africa","Unemployment youth total (%)","economy",2015,50.31
+"South Africa","Vulnerable employment (%))","economy",2015,9.43
+"United States","Adolescent fertility rate (x/1000)","health & well-being",2015,23.0908
+"United States","Consumer price index (2010 = 100)","economy",2015,108.6957
+"United States","Health expenditure (% of GDP)","health & well-being",2015,16.7108
+"United States","Death rate (x/1000)","health & well-being",2015,8.44
+"United States","Exports as a capacity to import","economy",2015,2.265862e+12
+"United States","Final consumption expenditure (% of GDP)","economy",2015,81.7242
+"United States","FDI, net inflows (% of GDP)","economy",2015,2.8042
+"United States","GDP growth (annual %)","economy",2015,3.0755
+"United States","Government final consumption (%)","governance",2015,14.2975
+"United States","Gini index","inequality",2015,41.2
+"United States","Gross domestic savings (% of GDP)","economy",2015,18.2758
+"United States","Income share of top 20%","inequality",2015,46.9
+"United States","Income share of bottom 20%","inequality",2015,5.3
+"United States","Inflation (annual %)","economy",2015,0.1186
+"United States","Labor force participation rate (%)","economy",2015,71.55
+"United States","Life expectancy at brith (years)","health & well-being",2015,78.6902
+"United States","Market cap of domestic companies (%)","economy",2015,137.4445
+"United States","Mortality rate under-5 (x/1000)","health & well-being",2015,6.8
+"United States","Real interest rate (%)","economy",2015,2.2857
+"United States","Suicide mortality rate (x/100,000)","health & well-being",2015,14.4
+"United States","Tax revenue (%)","governance",2015,11.2091
+"United States","Unemployment total (%)","economy",2015,5.28
+"United States","Unemployment youth total (%)","economy",2015,11.51
+"United States","Vulnerable employment (%))","economy",2015,4.08
